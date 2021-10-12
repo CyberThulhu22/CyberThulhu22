@@ -6,9 +6,10 @@
 ![](https://img.shields.io/badge/Twitter-@CyberThulhu-blue?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/CyberThulhu)
 
 ##### **Training Platforms**
-###### Hack The Box
+###### Hack The Box 
 [![CyberThulhu22](https://www.hackthebox.eu/badge/image/58848)](https://www.hackthebox.eu/home/users/profile/58848)
-
+###### TryHackMe 
+![CyberThulhu22](https://github.com/CyberThulhu22/CyberThulhu22/blob/main/CyberThulhu22.png?raw=true)
 
 ---
 #### :chart_with_upwards_trend: GitHub Statistics
