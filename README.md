@@ -1,6 +1,6 @@
 ## Hello there! 👋
 ### **Name:** Jesse Leverett
-##### :bust_in_silhouette: **Alias:** CyberThulhu // :scroll: **Certifications:** [OSCP](https://www.credly.com/badges/d0f12ced-3989-4ebf-83bf-39b01204c12d)/[GCIH](https://www.credly.com/badges/f5f3ee07-fd28-476c-aa2e-45cbff01fac0)/[GCPN](https://www.credly.com/badges/4e431b8a-cb16-41d2-9073-d90fbf42ba46)/[SEC+](https://www.credly.com/badges/ded471ea-c149-40e0-a7dc-4256eb84ab43)/[Pentest+]()/[CVNP]() // 🤵🏼‍♂️ **Pronouns:** [He/Him]
+##### :bust_in_silhouette: **Alias:** CyberThulhu // :scroll: **Certifications:** [OSCP](https://www.credly.com/badges/d0f12ced-3989-4ebf-83bf-39b01204c12d)/[GCIH](https://www.credly.com/badges/f5f3ee07-fd28-476c-aa2e-45cbff01fac0)/[GCPN](https://www.credly.com/badges/4e431b8a-cb16-41d2-9073-d90fbf42ba46)/[SEC+](https://www.credly.com/badges/ded471ea-c149-40e0-a7dc-4256eb84ab43)/[Pentest+](https://www.credly.com/badges/57a599de-e3f6-497d-bd28-a98066c377a4)/[CVNP](https://www.credly.com/badges/476aa3d6-9252-47f2-8c95-63522263744a) // 🤵🏼‍♂️ **Pronouns:** [He/Him]
 ##### **Social Media:**
 ![](https://img.shields.io/badge/LinkedIn-Jesse--Leverett-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jesse-leverett/)
 ![](https://img.shields.io/badge/Twitter-@CyberThulhu-blue?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/CyberThulhu)
