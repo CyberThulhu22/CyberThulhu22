@@ -33,8 +33,14 @@
 
 ---
 #### 🔭 I’m currently working on: 
-##### Revamping my GitHub
+
+| Topic              | Description                               | Links                                                                       |
+|:-------------------|:------------------------------------------|:---------------------------------------------------------------------------:|
+| Python Projects    | Learning/Working Projects Built in Python | [Python Projects](https://github.com/CyberThulhu22/Python-Projects)         |
+| C++ Projects       | Learning/Working Projects Built in C++    | [C++ Projects](https://github.com/CyberThulhu22/CPP-Projects)               |
+| Red Siege Projects | Projects Built during Red Siege Workshop  | [Red Siege Projects](https://github.com/CyberThulhu22/Python-Pentest-Tools) |
 ---
+
 #### 🌱 I’m currently learning: 
 ##### Offensive Security & Red Teaming || Advanced Python Scripting/Coding
 ---
