@@ -34,14 +34,16 @@
 ---
 #### 🔭 I’m currently working on: 
 
-| Topic              | Description                               | Links                                                                       |
-|:-------------------|:------------------------------------------|:---------------------------------------------------------------------------:|
-| Python Projects    | Learning/Working Projects Built in Python | [Python Projects](https://github.com/CyberThulhu22/Python-Projects)         |
-| C++ Projects       | Learning/Working Projects Built in C++    | [C++ Projects](https://github.com/CyberThulhu22/CPP-Projects)               |
-| Go Projects        | Learning/Working Projects Built in Go     | [Go Projects](https://github.com/CyberThulhu22/Go-Projects)                 |
-| Red Siege Projects | Projects Built during Red Siege Workshop  | [Red Siege Projects](https://github.com/CyberThulhu22/Python-Pentest-Tools) |
+| Topic                     | Description                                      | Links                                                                                  |
+|:--------------------------|:-------------------------------------------------|:--------------------------------------------------------------------------------------:|
+| Python Projects           | Learning/Working Projects Built in Python        | [Python Projects](https://github.com/CyberThulhu22/Python-Projects)                    |
+| C++ Projects              | Learning/Working Projects Built in C++           | [C++ Projects](https://github.com/CyberThulhu22/CPP-Projects)                          |
+| Go Projects               | Learning/Working Projects Built in Go            | [Go Projects](https://github.com/CyberThulhu22/Go-Projects)                            |
+| CobaltStrike CNA Projects | Learning/Working Projects Built for CobaltStrike | [CobaltStrike Projects](https://github.com/CyberThulhu22/aggressorscripts_cyberthulhu) |
+| Red Siege Projects        | Projects Built during Red Siege Workshop         | [Red Siege Projects](https://github.com/CyberThulhu22/Python-Pentest-Tools)            |
 ---
 
 #### 🌱 I’m currently learning: 
 ##### Offensive Security & Red Teaming || Advanced Python Scripting/Coding
+##### Writing CobaltStrike CNA/Aggressor Scripts || Leaning Java/Sleep 2.1
 ---
